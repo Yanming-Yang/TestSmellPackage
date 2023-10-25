@@ -1,8 +1,7 @@
 ## 1 Test Smell
 
 - **Empirical_SO_post_data.xlsx** contains all relevant posts we collect from Stack Overflow and data extracted from these posts.
-- **Issue_report_link.xlsx** lists all issue reports we submit to report six test smell types.
-- **TestSmellDetector** includes the source code of our detector and the results detected from 919 projects.
+- **TestSmellDetector** includes the source code of our detector.
 - **project_list.txt** shows all projects which we use to evaluate the prevalence of our detector.
 
 ## 2 TestSmellDetector
